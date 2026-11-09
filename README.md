@@ -2,16 +2,16 @@
 ## Application Screenshots
 
 ### Registration Page
-![Registration Page](register)
+![Registration Page](register.png)
 
 ### Dashboard
-![Dashboard](dashboard)
+![Dashboard](dashboard.png)
 
 ### My Readings
-![My Readings](readings)
+![My Readings](readings.png)
 
 ### Reports
-![Reports](reports)
+![Reports](reports.png)
 
 ### Reminders
-![Reminders](reminders)
+![Reminders](reminders.png)
