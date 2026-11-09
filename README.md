@@ -40,7 +40,15 @@ cd sweety-blood-glucose-tracker
 npm install
 ```
 
-Create a `.env` file in the root directory and configure your PostgreSQL database connection and JWT secret.
+Create a `.env` file in the root directory with the following configuration:
+
+```env
+DB_HOST=localhost
+DB_PORT=5432
+DB_USER=your_postgres_username
+DB_PASSWORD=your_postgres_password
+DB_NAME=your_database_name
+JWT_SECRET=your_secure_random_secret
 
 Start the backend:
 
