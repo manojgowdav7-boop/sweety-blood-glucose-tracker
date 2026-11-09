@@ -1,3 +1,37 @@
+
+## Application Screenshots
+
+### Login Page
+![Login Page](client/public/screenshots/login.png)
+
+### Dashboard
+![Dashboard](client/public/screenshots/dashboard.png)
+
+### My Readings
+![My Readings](client/public/screenshots/readings.png)
+
+### Reports
+![Reports](client/public/screenshots/reports.png)
+
+### Reminders
+![Reminders](client/public/screenshots/reminders.png)
+
+## Application Screenshots
+
+### Login Page
+![Login Page](client/public/screenshots/login.png)
+
+### Dashboard
+![Dashboard](client/public/screenshots/dashboard.png)
+
+### My Readings
+![My Readings](client/public/screenshots/readings.png)
+
+### Reports
+![Reports](client/public/screenshots/reports.png)
+
+### Reminders
+![Reminders](client/public/screenshots/reminders.png)
 # sweety-blood-glucose-tracker
 Blood Glucose Tracker built with React, Node.js, Express and PostgreSQL
 # Sweety – Blood Glucose Tracker
